@@ -12,7 +12,7 @@ include Paramable
   @@artists = []
 
   def initialize
-    @@artists << self
+    #@@artists << self
     @songs = []
   end
 
